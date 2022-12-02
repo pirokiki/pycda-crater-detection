@@ -1,4 +1,3 @@
-#!/home/piotr/anaconda3/envs/pycda/bin/python
 from pycda import CDA, load_image
 import cv2, numpy, subprocess, os, shutil, sys, getopt
 
