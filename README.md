@@ -1,4 +1,4 @@
-# pycda-crater-detection
+# Pycda-crater-detection
 Simple code detecting craters on photos from mars.
 
 ## Update, install git and wget
