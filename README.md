@@ -1,5 +1,5 @@
 # Pycda-crater-detection
-Simple code detecting craters on photos from mars.
+Simple script detecting craters on photos from mars.
 
 ## Update, install git and wget
 
@@ -7,7 +7,7 @@ Simple code detecting craters on photos from mars.
 apt-get update && apt-get upgrade -y && apt-get install git wget
 ```
 
-## download conda and repo
+## Download conda and repo
 
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh
