@@ -32,10 +32,10 @@ conda create -n <name> python=3.6.5
 conda activate <name>
 ```
 
-## Install pycda and opencv
+## Install dependencies
 
 ```
-pip install pycda opencv-python
+pip install pycda opencv-python numpy matplotlib
 ```
 
 ## Make detection script executable
