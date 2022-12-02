@@ -12,6 +12,7 @@ apt-get install git wget
 >download conda and repo
 
 wget https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh
+
 git clone https://github.com/pirokiki/pycda-crater-detection.git
 
 >install anaconda
