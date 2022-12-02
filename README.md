@@ -48,5 +48,5 @@ chmod +x craters.py
 ## Run script
 
 ```
-./craters.py -f <file name> -s <size in %> -b <blur 1-9>
+python craters.py -f <file name> -s <size in %> -b <blur 1-9>
 ```
