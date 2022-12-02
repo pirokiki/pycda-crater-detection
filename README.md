@@ -29,7 +29,7 @@ conda create -n <name> python=3.6.5
 ## Activate virtual environment
 
 ```
-conda activate test
+conda activate <name>
 ```
 
 ## Install pycda and opencv
